@@ -32,7 +32,7 @@ Program : Program to implement the given logic function and to verify its operat
 
 Developed by : KEERTHIVASAN S 
 
-Register Number : 23002436 
+Register Number : 212223220046 
 
 Code :
 
